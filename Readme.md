@@ -23,3 +23,12 @@ jshell> C = n;
 |  C = n;
 |  ^
 
+### After errors fixed
+
+jshell> /edit 5
+b ==> 68
+
+jshell> /edit 6
+c ==> 'D'
+
+
